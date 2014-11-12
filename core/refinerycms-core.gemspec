@@ -29,9 +29,9 @@ Gem::Specification.new do |s|
   s.add_dependency 'actionpack',                  rails_version
   s.add_dependency 'truncate_html',               '~> 0.9'
   s.add_dependency 'will_paginate',               '~> 3.0.2'
-  s.add_dependency 'sass-rails',                  '~> 4.0.0'
-  s.add_dependency 'coffee-rails',                '~> 4.0.0'
+  s.add_dependency 'sass-rails',                  '~> 4.0'
+  s.add_dependency 'coffee-rails',                '~> 4.0'
   s.add_dependency 'jquery-rails',                '>= 2.3.0'
-  s.add_dependency 'jquery-ui-rails',             '~> 5.0.0'
+  s.add_dependency 'jquery-ui-rails',             '~> 5.0'
   s.add_dependency 'decorators',                  '~> 1.0.0'
 end
